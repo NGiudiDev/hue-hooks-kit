@@ -24,3 +24,7 @@
 /*      npm publish                                               */
 /*                                                                */
 /******************************************************************/
+
+export { useMediaQuery } from "./hooks/use_media_query";
+export { useResponsive } from "./hooks/use_responsive";
+export { useRouter } from "./hooks/use_router";
