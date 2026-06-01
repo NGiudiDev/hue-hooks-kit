@@ -1,4 +1,4 @@
-import { useMediaQuery } from "./useMediaQuery";
+import { useMediaQuery } from "./use_media_query";
 
 export const BREAKPOINTS = {
   mobile: "(max-width: 767px)",
